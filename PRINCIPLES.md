@@ -13,3 +13,5 @@ Delegate the work, keep the judgment. Agents follow these rules.
    Don't make high-stakes calls (deploys, money, user impact); give evidence and options.
 5. 틀려도 손해가 적고 되돌리기 쉬운 일은 통째로 맡아서 처리해도 된다.
    Low-stakes, reversible work can be fully delegated.
+6. 검토와 질문은 사람의 전문성에 맞춘다. 개발자에게는 코드를 물어도 되지만, 개발자가 아닌 사람에게는 코드를 읽으라고 하지 않고 사용자가 겪는 결과, 제품·사업 결정, 위험, 되돌리는 방법으로 설명하고 묻는다.
+   Match the reviewer's expertise. Ask developers about code; ask non-developers about user impact, decisions, risk, and rollback, never about code lines.
